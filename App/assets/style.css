@@ -1,0 +1,49 @@
+.modebar{
+    display: none !important;
+}
+
+body {
+    font-family: sans-serif;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top:0;
+}
+
+h1{
+    margin-top: 0px;
+    text-align: center;
+    color:rgb(127, 85, 57);
+    font-size: 25px;
+}
+
+h2{
+    margin-left: 30px;
+    color:rgb(127, 85, 57);
+    font-size: 15px;
+}
+
+.himark-image{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sensor-checklist .all-sensor-checklist,.checklist-radar{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.toggle-radar{
+    margin-top: 20px;
+}
+
+.dropdown-mobile{
+    margin-left: 0px;
+    margin-right: 20px;
+}
+
+.time-info{
+    margin-bottom: 20px;
+    margin-left: 300px;
+    color:rgb(127, 85, 57);
+}
