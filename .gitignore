@@ -3,3 +3,6 @@ venv/
 
 # Byte-compiled / optimized / DLL files
 App/__pycache__/
+
+# Data files
+App/Data
